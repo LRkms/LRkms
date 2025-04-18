@@ -1,4 +1,6 @@
-![Snake animation](https://github.com/LRkms/LRkms/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <img src="https://github.com/LRkms/LRkms/blob/output/github-snake-dark.svg">
+</div>
 ## Hi there 👋
 
 <!--
