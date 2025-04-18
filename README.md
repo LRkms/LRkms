@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/LRkms/LRkms/blob/output/github-snake-dark.svg">
+  <img src="https://github.com/LRkms/LRkms/blob/output/github-contribution-grid-snake.svg">
 </div>
 ## Hi there 👋
 
